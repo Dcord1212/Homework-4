@@ -1,0 +1,6 @@
+.DS_Store
+*.otter
+*.zip
+.ipynb_checkpoints/
+*.vscode/
+__pycache__/
